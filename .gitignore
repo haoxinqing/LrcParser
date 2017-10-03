@@ -1,0 +1,8 @@
+# Some Initial file
+.DS_Store
+
+# Lyric files
+*.lrc
+
+# Cache files
+netease/cache/
